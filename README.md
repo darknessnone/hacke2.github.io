@@ -1,7 +1,7 @@
 个人前端博客
 ----------
 
-## [点此访问 www.hacke2.cn](http://www.hacke2.cn)
+
 
 本博客是基于[hpstr jekyll]("https://github.com/hacke2/hpstr-jekyll-theme)而搭建的个人博客，在原有强大的功能上，做了如下修改：
 
